@@ -11,24 +11,14 @@
 
 ## 🚀 Sobre Mim
 
-<<<<<<< HEAD
 > **Desenvolvedor Backend** especializado em **Data Analytics** e construção de soluções escaláveis.  
 > Expertise em **APIs RESTful**, **processamento de dados**, **web scraping** e **automação de processos**.
-=======
-> **Desenvolvedor Backend** com paixão por criar soluções inovadoras que simplificam processos complexos.  
-> Especialista em **automação**, **web scraping**, **APIs RESTful**.
->>>>>>> 20ee2bfbd34104ab66443f5d3436c1df6c49aecf
 
 ```python
 class Gustavo:
     def __init__(self):
-<<<<<<< HEAD
         self.name = "Gustavo Santos"
         self.role = "Backend Developer | Data Analytics"
-=======
-        self.name = "Gustavo Aguiar"
-        self.role = "Backend developer"
->>>>>>> 20ee2bfbd34104ab66443f5d3436c1df6c49aecf
         self.location = "Brasil 🇧🇷"
         self.languages = ["Python", "SQL", "JavaScript"]
         self.current_focus = ["Data Analytics", "FastAPI", "ETL Pipelines", "Web Scraping"]

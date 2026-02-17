@@ -21,9 +21,14 @@ class Gustavo:
         self.role = "Python Developer | Backend & Data Analytics"
         self.location = "Brasil 🇧🇷"
         self.primary_language = "Python"
-        self.learning = ["SQL", "JavaScript"]  # Em aprendizado
-        self.current_focus = ["FastAPI", "Data Analysis", "Web Scraping", "Automation"]
-        self.hobbies = ["Trading", "Financial Data Analysis", "Problem Solving"]
+        self.tools = {
+            "data_analysis": ["Pandas", "NumPy", "Polars"],
+            "visualization": ["Matplotlib", "Plotly"],
+            "trading": ["yFinance", "Backtrader"],
+            "backend": ["FastAPI", "Flask"]
+        }
+        self.learning = ["SQL", "JavaScript"]
+        self.current_focus = ["Data Analytics", "Algorithmic Trading", "Web Scraping"]
     
     def say_hi(self):
         print("Obrigado pela visita! Vamos construir algo incrível juntos?")
@@ -39,15 +44,29 @@ me.say_hi()
 ### **Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Frameworks & Bibliotecas**
 
+**Backend & APIs:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Data Analysis:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+
+**Visualization:**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Finance & Trading:**  
+![yFinance](https://img.shields.io/badge/yFinance-800080?style=for-the-badge&logo=yahoo&logoColor=white)
+![Backtrader](https://img.shields.io/badge/Backtrader-2C5F2D?style=for-the-badge&logo=python&logoColor=white)
+
+**Outras:**  
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 

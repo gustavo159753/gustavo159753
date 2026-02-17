@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+sou+Gustavo+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+JavaScript+%7C+AI+Enthusiast;Building+Smart+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+sou+Gustavo+%F0%9F%91%8B;Backend+Developer;Python+%7C+SQL+%7C+Data+Analytics;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,18 +11,18 @@
 
 ## 🚀 Sobre Mim
 
-> **Desenvolvedor Full Stack** com paixão por criar soluções inovadoras que simplificam processos complexos.  
-> Especialista em **automação**, **web scraping**, **APIs RESTful** e **aplicações mobile-first**.
+> **Desenvolvedor Backend** especializado em **Data Analytics** e construção de soluções escaláveis.  
+> Expertise em **APIs RESTful**, **processamento de dados**, **web scraping** e **automação de processos**.
 
 ```python
 class Gustavo:
     def __init__(self):
         self.name = "Gustavo Santos"
-        self.role = "Full Stack Developer"
+        self.role = "Backend Developer | Data Analytics"
         self.location = "Brasil 🇧🇷"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.current_focus = ["PWAs", "FastAPI", "Machine Learning", "OCR"]
-        self.hobbies = ["Trading", "Data Analysis", "Problem Solving"]
+        self.languages = ["Python", "SQL", "JavaScript"]
+        self.current_focus = ["Data Analytics", "FastAPI", "ETL Pipelines", "Web Scraping"]
+        self.hobbies = ["Trading", "Data Science", "Financial Analysis"]
     
     def say_hi(self):
         print("Obrigado pela visita! Vamos construir algo incrível juntos?")

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+sou+Gustavo+%F0%9F%91%8B;Backend+Developer;Python+%7C+SQL+%7C+Data+Analytics;Building+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+sou+Gustavo+%F0%9F%91%8B;Python+Developer;Backend+%7C+Data+Analytics;Building+Solutions+with+Python" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,18 +11,19 @@
 
 ## 🚀 Sobre Mim
 
-> **Desenvolvedor Backend** especializado em **Data Analytics** e construção de soluções escaláveis.  
-> Expertise em **APIs RESTful**, **processamento de dados**, **web scraping** e **automação de processos**.
+> **Desenvolvedor Python** especializado em **Backend** e **Data Analytics**.  
+> Focado em construir soluções com **Python**, **APIs**, **automação** e **processamento de dados**.
 
 ```python
 class Gustavo:
     def __init__(self):
         self.name = "Gustavo Santos"
-        self.role = "Backend Developer | Data Analytics"
+        self.role = "Python Developer | Backend & Data Analytics"
         self.location = "Brasil 🇧🇷"
-        self.languages = ["Python", "SQL", "JavaScript"]
-        self.current_focus = ["Data Analytics", "FastAPI", "ETL Pipelines", "Web Scraping"]
-        self.hobbies = ["Trading", "Data Science", "Financial Analysis"]
+        self.primary_language = "Python"
+        self.learning = ["SQL", "JavaScript"]  # Em aprendizado
+        self.current_focus = ["FastAPI", "Data Analysis", "Web Scraping", "Automation"]
+        self.hobbies = ["Trading", "Financial Data Analysis", "Problem Solving"]
     
     def say_hi(self):
         print("Obrigado pela visita! Vamos construir algo incrível juntos?")

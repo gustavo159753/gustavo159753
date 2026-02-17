@@ -11,14 +11,14 @@
 
 ## 🚀 Sobre Mim
 
-> **Desenvolvedor Full Stack** com paixão por criar soluções inovadoras que simplificam processos complexos.  
-> Especialista em **automação**, **web scraping**, **APIs RESTful** e **aplicações mobile-first**.
+> **Desenvolvedor Backend** com paixão por criar soluções inovadoras que simplificam processos complexos.  
+> Especialista em **automação**, **web scraping**, **APIs RESTful**.
 
 ```python
 class Gustavo:
     def __init__(self):
-        self.name = "Gustavo Santos"
-        self.role = "Full Stack Developer"
+        self.name = "Gustavo Aguiar"
+        self.role = "Backend developer"
         self.location = "Brasil 🇧🇷"
         self.languages = ["Python", "JavaScript", "SQL"]
         self.current_focus = ["PWAs", "FastAPI", "Machine Learning", "OCR"]
@@ -154,9 +154,8 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-gustavo159753-181717?style=for-the-badge&logo=github)](https://github.com/gustavo159753)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Santos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visite-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Aguiar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavoaguiarsiqueira/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo_ro14@hotmail.com)
 
 </div>
 
